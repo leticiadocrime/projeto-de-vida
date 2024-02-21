@@ -26,4 +26,7 @@ body {
   diplay: flex;
   justify-content: center;
   pading: 1em;
-  font-
+  font-size: 18px;
+  align-items: center;
+  width: 100%;
+}
